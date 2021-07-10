@@ -11,7 +11,7 @@ struct student
     };
 struct student a;
 
-
+hggggggggg
 int main()
 {
     int choice;
